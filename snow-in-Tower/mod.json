@@ -1,0 +1,16 @@
+{
+	"name" : "Snow in Tower",
+	"description" : "Additional animation that changes the weather in the Tower town screen",
+	"author" : "Andruids, whoever made the snow gif",
+	"contact" : "madaosoul@gmail.com",
+	"version" : "0.5",
+	"modType" : "Graphical town modifications",	
+	"factions" :
+	[
+		"config/snowTower.json"
+	],
+	"changelog" :
+    {
+		"0.5" : ["Initial release"]
+    }
+}
