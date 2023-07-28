@@ -4,11 +4,15 @@
 	"author" : "Andruids, whoever made the snow gif",
 	"contact" : "madaosoul@gmail.com",
 	"version" : "0.5",
-	"modType" : "Graphical town modifications",	
+	"modType" : "Graphical",
 	"factions" :
 	[
 		"config/snowTower.json"
 	],
+	"compatibility":
+	{
+		"min" : "1.0.0"
+	},
 	"changelog" :
     {
 		"0.5" : ["Initial release"]
